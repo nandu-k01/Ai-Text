@@ -29,9 +29,9 @@ $ python app.py
 
 ## Screenshots
 
-![](https://github.com/nandu-k01/Ai-Text/blob/main/screenshots/A.png)
-![](https://github.com/nandu-k01/Ai-Text/blob/main/screenshots/B.png)
-![](https://github.com/nandu-k01/Ai-Text/blob/main/screenshots/C.png)
+![](https://github.com/nandu-k01/Ai-Text/blob/main/Screenshots/A.png)
+![](https://github.com/nandu-k01/Ai-Text/blob/main/Screenshots/B.png)
+![](https://github.com/nandu-k01/Ai-Text/blob/main/Screenshots/C.png)
 
 
 
