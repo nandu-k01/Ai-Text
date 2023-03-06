@@ -5,7 +5,7 @@ from PyQt5.QtCore import Qt
 import openai
 import time
 
-openai.api_key = "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" # replace with your actual API key
+openai.api_key = "" # replace with your actual API key
 
 class TextGenerationApp(QWidget):
     def __init__(self):
