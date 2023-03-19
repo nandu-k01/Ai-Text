@@ -9,7 +9,7 @@ Replace openai.api_key with your own API key from https://platform.openai.com/ac
 
 ## Built With
 ![](https://img.shields.io/static/v1?label=🤖&message=OpenAI&color=<lightgrey>)
-![](https://img.shields.io/static/v1?label=📺&message=PyQt5&color=<lightgrey>)
+![](https://img.shields.io/static/v1?label=📺&message=flask&color=<lightgrey>)
 ![](https://img.shields.io/static/v1?label=🐍&message=Python&color=<lightgrey>)
 
 
@@ -28,11 +28,6 @@ $ python app.py
 
 
 
-## Screenshots
-
-![](https://github.com/nandu-k01/Ai-Text/blob/main/Screenshots/A.png)
-![](https://github.com/nandu-k01/Ai-Text/blob/main/Screenshots/B.png)
-![](https://github.com/nandu-k01/Ai-Text/blob/main/Screenshots/C.png)
 
 
 
