@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>ChatAi</title>
+</head>
+<body>
+  <h1 class="h">OpenAI Text Generation</h1>
+    <form method="POST" action="/generate">
+        <form method="POST" action="/generate">
+          <label for="prompt">Enter your prompt:</label>
+          <br>
+          <textarea id="prompt" name="prompt" rows="5" cols="50"></textarea>
+          <br>
+          <input type="submit" value="Generate">
+        </form>
+        {% if output %}
+        <div>
+          <h2>Generated text:</h2>
+          <p>{{ output }}</p>
+        </div>
+        {% endif %}
+</body>
+</html>
